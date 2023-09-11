@@ -1,0 +1,18 @@
+# Environments
+.venv/
+
+# mypy
+.mypy_cache/
+
+
+# VS Code
+.vscode/
+
+# PyTest
+
+__pycache__/
+
+# Additional
+tests/
+Makefile
+requirements_dev.txt
